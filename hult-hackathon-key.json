@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "event-pipeline",
+  "private_key_id": "95903faabb1136fe4cd8537969a6a68c0e1d3ff4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc7/bBoqdPosHY\nEUtK49hcTKYTrx1Ojs3Y/+++NYZ1fbsoEFKFusZxMR+708mi4bbfmS+3MW/f3RK/\n8VCSzVaqhGNTZPnDFB6RsgMgUHNi1tEDw6Oog29OEMZfXEwZjDnelGe8YIxtpikc\nJ3PuilE4/R40rZagGcCe86zilQ1+YaGypXZW7Iom6MVJNTEKor7dj8mnq7dBCOhP\nW2lURfEiVPxnDnLS5UuPyaZPkRy3krI5m5JqmuUEU3NtHo8uzZXo0DfO/D1YC4xE\no9s0zM97B0xmP4O3qYPYSsf73PCV+Gnlxinty80cV+WMxydtF6P6vSYAjxuNR8MP\nHlCuZo7VAgMBAAECggEAEcjhQKISvMbZusZdnLgtlPR4k/IPNmEpcdPcXR/a5H9L\n/wQdWHV5/ueY6do5C3sG6QXgQOtiWY9msHvA5ChSVySUCEUDE/B9K3Y8aTAAsc6g\nAaEQfgKihZK1HT0FRTMz/1ZL6W6OL09mVMVaQDPzKNa7RTtJ+jZIeqMb4htkfC1C\ncmfynG3ZS6JOBsjqhINbuBCn2NVmM7WGwZxVZnakK1nHugOxkdVB9vvbwuNP3S3f\nWPr4xKge/sSXIqc1amj3uwF/GXHHZtwa1fZlTNh2VjsMpUVz8XitT24pvVvLyJ/q\n/TcBTSwJVyA+yrjv+LrOnwroLf+NiYc9pw1BCWltmwKBgQD2ZylRRG0m0FcyXAYG\nFML1eRyBSgn8qdZaVbpSZeCSq1f7PiJzUzQfZ+SSFY1Gm4ta0NGQSsYNOvu9PSx1\n2w3EJVW4YfkCsX6fdNyJAzJxXxs55icj1JgDR4Lak5+ynG1EqQcI4J/vXw99nD75\nhqT+D80ypaf+l0r/FWYO/o2yuwKBgQDliuO5IbZn5oRLUl06kKeOzPtau8K5ly+3\nrT6hHpSaUn/BMCHC0MNz0TxRNkyW1O0i0Ga8Ys2OfjhLr0k5chusNKFvV55Tia1U\nwGJyVKaDu1YVceWCORNCfs2lLMTE1Tx0Zr8ONvXU5lT0Ovv6SNI6Szx3NJR+28tC\nkO6TzziTrwKBgQC0pCCoUY/r+qVSaCCKaMIdEDMTneIAd8qL43l7WvDu1erkaEL9\nZSw7MgFiD6bI8tOROrHIJOlZXbqcm7JynKtU90IGsNzLWrDH2fasA8oBT4Y4RkC/\nheYD0XNfJwbW/NMmmPxtR7A43uoOXnPUnx9qms8GqGemv+fdZiSyLXBYbQKBgGda\n22CvqlcsN2NG6c2F9rxY1dCr/Gjeh1DYA/w+LcEy5m1RQ9JZd7g9fUBAB8peg4wK\ndEfc4RuI/8YsXfcsxwMKC6p7tEF/G3muymUacoOcJY2wZBv3oRFu0R/PgaXzMa5j\n2SEIZDaBo7z4lh7DDU3MNKSkGzznsKT/Zz1Mr/fnAoGBAJgzjM1eZCn7m6RdOSO4\n+HtYmCDqnPY+vf5M8fsvdJJbU9g8pUqRy0xyY5mD89tRMAW2GjCzznj3oyRWmn+q\ni6wCyI2HsDyyDHeXwri9J8RUcyO8NlFJ3VUeuUy2xgNw79U2gTZpTZeWrmJAtU7m\nk73sPly7kYwuINXafDuJ7lcy\n-----END PRIVATE KEY-----\n",
+  "client_email": "hult-bigquery@event-pipeline.iam.gserviceaccount.com",
+  "client_id": "112175134836295972727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hult-bigquery%40event-pipeline.iam.gserviceaccount.com"
+}
